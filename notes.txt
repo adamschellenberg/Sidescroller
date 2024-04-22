@@ -1,1 +1,7 @@
 --game notes
+
+4/22 - ADAM:
+    Created a few more folders in "assets":
+        sound:  where all the audio files will eventually go
+        player: where the player sprites will eventually go
+    Saw that you started working on an LDtk level. Niiice!
